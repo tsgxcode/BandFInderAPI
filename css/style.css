@@ -3,7 +3,8 @@ body{
 }
 /*main  */
 .wrapper{
-    align-content: center;
+    display: grid;
+    justify-content: center;
     padding: 20px;
 }
 
