@@ -19,8 +19,14 @@ body{
     padding: 20px;
     border: solid 5px;
     justify-items: center;
-    border-color: rgb(111, 96, 89);
+    border-color: rgba(0, 192, 166, 0.614);
     width: 200px;
-    height: 100px;
-   
+    height: 200px;
+}
+
+.li_1, .li_2, .li_3 {
+    display: grid;
+    padding: 5px;
+    border: solid 1px;
+    width: 100px;
 }
