@@ -5,28 +5,20 @@ body{
 
 /*main  */
 .wrapper{
-    justify-content: center;
     display: grid;
-    padding: 20px;
-    
-   
+    justify-content: center;
+    padding: 0px;
 }
 
 /*main ul  */
-.ul{
-    display: grid;
-    list-style-type: none;
-    padding: 20px;
-    border: solid 5px;
-    justify-items: center;
-    border-color: rgba(0, 192, 166, 0.614);
-    width: 200px;
-    height: 200px;
+.lbl{
+  background-color: rgb(251, 240, 255);
+  padding: 20px;
+  height: 175px;
+  border-radius: 20px;
 }
 
-.li_1, .li_2, .li_3 {
-    display: grid;
-    padding: 5px;
-    border: solid 1px;
-    width: 100px;
+.lbl_2{
+    margin-top: 3000px;
 }
+
