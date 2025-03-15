@@ -3,6 +3,12 @@ body{
     background-color: rgb(255, 195, 145);
 }
 
+.header{
+    color:black;
+    font-style: oblique;
+    padding: 10px;
+}
+
 /*main  */
 .wrapper{
     display: grid;
@@ -12,12 +18,25 @@ body{
     padding: 0px;
 }
 
-/*main ul  */
+/*Diecast brand form  */
 .lbl{
+  
+  margin-top: 50px;  
   background-color: rgb(251, 240, 255);
-  padding: 20px;
+  padding: 15px;
+  width: 170px;
   height: 300px;
   border-radius: 20px;
 }
+
+/*Footer*/
+.footer{
+    position: fixed;
+    justify-self: center;
+    bottom: 0;
+    padding: 20px;
+    color:rgb(42, 54, 54);
+}
+
 
 
