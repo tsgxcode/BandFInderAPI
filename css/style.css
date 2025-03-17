@@ -12,19 +12,18 @@ body{
 /*main  */
 .wrapper{
     display: grid;
-    grid-template-columns: 220px 220px;
     grid-gap: 20px;
-    justify-content: center;
+    justify-self: center;
     padding: 0px;
 }
 
 /*Diecast brand form  */
-.lbl{
+.form{
   
   margin-top: 50px;  
   background-color: rgb(251, 240, 255);
   padding: 15px;
-  width: 170px;
+  width: 200px;
   height: 300px;
   border-radius: 20px;
 }
