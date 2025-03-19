@@ -35,8 +35,8 @@ Second phase(furture plan):
 
 
 
-Note: I might also develop an app for Android. I woulde consider an Iphon, but an Iphone app 
- would requir buying a Mac, so this would be a distant future. 
+Note: I might also develop an app for Android. I woulde consider one for Iphone, but an Iphone app 
+ would require buying a Mac, so this would be a distant future. 
 
 
 4:14 PM EST 3.19.2025
