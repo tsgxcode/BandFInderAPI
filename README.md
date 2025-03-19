@@ -2,7 +2,7 @@
 
  Welcome to Diecast Collector Database ... a Code:You Capstone project!
 
-  
+
 Description
   Creat an app. that can help Diecast collectors calalog their collections 
 
@@ -39,5 +39,5 @@ Note: I might also develop an app for Android. I woulde consider an Iphon, but a
  would requir buying a Mac, so this would be a distant future. 
 
 
-
+4:14 PM EST 3.19.2025
 Thanks for reading, Scott 
