@@ -19,13 +19,13 @@ body{
     padding: 0px;
 }
 
-/*Diecast brand form  */
+/*Bands  */
 .finding_bands{
   grid-template-columns: 3, 1fr;
   margin-top: 50px;  
   padding: 15px;
   width: 200px;
-  height: 100px;
+  height: 5px;
 }
 
 /*Footer*/
@@ -38,12 +38,3 @@ body{
     color:rgb(42, 54, 54);
 }
 
-
-@media (max-width: 769px)
-  
-        {
-    .wrapper{
-     min-height: calc(100vh - 52px);
-
-    }
- } 
