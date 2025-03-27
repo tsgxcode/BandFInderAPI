@@ -53,10 +53,3 @@ async function searchBand(bandName) {
       resultsDiv.textContent = 'Band not found.';
     }
   });
-  
-  // Example HTML (add this to your HTML file)
-  /*
-  <input type="text" id="bandInput" placeholder="Enter band name">
-  <button id="searchButton">Search</button>
-  <div id="resultsDiv"></div>
-  */
