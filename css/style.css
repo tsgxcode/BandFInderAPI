@@ -16,9 +16,7 @@ body{
 
 /*main  */
 .wrapper{
-    
     background-color: antiquewhite;
-    width: 400px;
     display: grid;
     grid-gap: 20px;
     justify-self: center;
@@ -27,11 +25,11 @@ body{
 
 /*Bands  */
 .finding_bands{
-  grid-template-columns: 3, 1fr;
   margin-top: 50px;  
   padding: 15px;
   width: 200px;
   height: 5px;
+ 
 }
 
 /*Footer*/
@@ -44,3 +42,13 @@ body{
     color:rgb(42, 54, 54);
 }
 
+ /* Media Quaries */
+
+ @media (max-width: 769px)
+  
+ {
+.wrapper, .footer {
+min-height: calc(100vh - 52px);
+
+}
+} 
