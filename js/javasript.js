@@ -1,7 +1,7 @@
 // Function to fetch band data from Discogs API
 async function searchBand(bandName) {
     const discogsApiKey = 'YOUR_DISCOGS_API_KEY'; // Replace with your API key
-    const userAgent = 'MyWebApp/1.0'; // Replace with your app name
+    const userAgent = 'BandFetcher'; // Replace with your app name
   
     try {
       const response = await fetch(`https://api.discogs.com/database/search?q=${bandName}&type=artist`, {
